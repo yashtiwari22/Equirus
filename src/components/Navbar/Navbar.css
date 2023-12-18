@@ -1,0 +1,16 @@
+.navbar {
+  display: flex;
+  width: 40%;
+  margin: auto;
+  justify-content: space-between;
+}
+.links {
+  display: flex;
+  width: 50%;
+  justify-content: space-between;
+}
+li {
+  list-style: none;
+  font-size: 15px;
+  font-weight: 700;
+}

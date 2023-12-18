@@ -1,0 +1,14 @@
+.profileArea {
+  width: 100%;
+  margin-top: 100px;
+}
+
+.profileCard {
+  width: 35%;
+  height: 400px;
+  margin: auto;
+  background-color: white;
+  box-shadow: 2px 2px 15px 2px lightgray;
+  border: none;
+  border-radius: 10px;
+}

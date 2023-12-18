@@ -1,0 +1,70 @@
+.searchArea {
+  width: 100%;
+  margin-top: 100px;
+}
+
+.searchCard {
+  width: 35%;
+  height: 400px;
+  margin: auto;
+  background-color: white;
+  box-shadow: 2px 2px 15px 2px lightgray;
+  border: none;
+  border-radius: 10px;
+}
+.recentSearches {
+  display: none;
+}
+
+input {
+  width: 90%;
+  height: 35px;
+}
+
+.onSearch {
+  display: flex;
+  width: 100%;
+}
+
+.seperator {
+  border: 1px solid lightgray;
+  height: 340px;
+  margin-top: 10px;
+}
+
+.personList {
+  width: 50%;
+  padding: 20px;
+}
+.profile {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  width: 100%;
+}
+img {
+  width: 80px;
+  height: 50px;
+  border-radius: 50%;
+  margin-left: 130px;
+}
+.personDetail {
+  width: 50%;
+}
+.details {
+  width: 100%;
+}
+
+.detail {
+  display: flex;
+  margin-left: 10px;
+  align-items: center;
+}
+
+.view {
+  width: 100%;
+}
+
+p {
+  margin-left: 10px;
+}
